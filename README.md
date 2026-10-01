@@ -18,10 +18,18 @@ Files are attached to the releases (`bibles-v<schema>`), not committed to the re
 | SV1917 | nl | De Heilige Schrift 1917 | Dutch Bible 1917 | https://ebible.org/Scriptures/nld_usfm.zip |
 | VI1923 | vi | Kinh Thánh 1923 | Vietnamese Bible 1923 | https://ebible.org/Scriptures/vie1934_usfm.zip |
 | JFB | ja | フリーダム・バイブル | Japanese Freedom Bible | https://ebible.org/Scriptures/jpnm_usfm.zip |
+| LSG | fr | Louis Segond 1910 | Louis Segond 1910 | https://ebible.org/Scriptures/fraLSG_usfm.zip |
+| SYN | ru | Синодальный перевод | Russian Synodal Bible | https://ebible.org/Scriptures/russyn_usfm.zip |
+| UKR1871 | uk | Біблія в перекладі Куліша | Ukrainian Bible (Kulish) | https://ebible.org/Scriptures/ukr1871_usfm.zip |
 
 All texts are in the **public domain**. They were converted from the USFM published by
-[eBible.org](https://ebible.org) (pinned by checksum) with verse numbering checked against
-the canon. The King James Version is under Crown patent in the United Kingdom and is not
-offered there.
+[eBible.org](https://ebible.org) (pinned by checksum) and checked against the canon and
+against known passages. The King James Version is under Crown patent in the United Kingdom
+and is not offered there.
+
+Every translation is stored in the English (KJV) verse numbering, so a reference means the
+same passage in each. Translations numbered differently (Louis Segond, Synodal, Kulish) were
+renumbered with the Paratext versification files from
+[SIL libpalaso](https://github.com/sillsdev/libpalaso) (MIT License).
 
 The Berean Standard Bible (also public domain, from bereanbible.com) is bundled in the app.
