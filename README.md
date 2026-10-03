@@ -21,10 +21,14 @@ Files are attached to the releases (`bibles-v<schema>`), not committed to the re
 | LSG | fr | Louis Segond 1910 | Louis Segond 1910 | https://ebible.org/Scriptures/fraLSG_usfm.zip |
 | SYN | ru | Синодальный перевод | Russian Synodal Bible | https://ebible.org/Scriptures/russyn_usfm.zip |
 | UKR1871 | uk | Біблія в перекладі Куліша | Ukrainian Bible (Kulish) | https://ebible.org/Scriptures/ukr1871_usfm.zip |
+| KRV | ko | 성경전서 개역한글판 | Korean Revised Version (Korean Bible Society, 1961) | https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/KorRV.zip |
 
 All texts are in the **public domain**. They were converted from the USFM published by
 [eBible.org](https://ebible.org) (pinned by checksum) and checked against the canon and
-against known passages. The King James Version is under Crown patent in the United Kingdom
+against known passages. The Korean Revised Version (개역한글판, 1961) comes from CrossWire's
+SWORD module KorRV (the Wikisource text), because eBible's copy is incomplete; the Korean
+Bible Society's economic rights in it ended at the end of 2011, and its name and wording are
+kept as published. The King James Version is under Crown patent in the United Kingdom
 and is not offered there.
 
 Every translation is stored in the English (KJV) verse numbering, so a reference means the
